@@ -56,7 +56,7 @@ export const QuizCard = ({ children, className = "", isFirstPage = false }: Quiz
               }}
             >
               <img
-                src="/src/images/vector.png"
+                src="/Vector.png"
                 alt="speech bubble"
                 style={{
                   width: '100%',
@@ -80,7 +80,7 @@ export const QuizCard = ({ children, className = "", isFirstPage = false }: Quiz
               </span>
             </div>
             <img
-              src="/src/images/749d79faabe3ab4ee8d83233bf1b15aa4471e72b.gif"
+              src="/paw.gif"
               alt="decoration"
               style={{
                 width: '110px',
